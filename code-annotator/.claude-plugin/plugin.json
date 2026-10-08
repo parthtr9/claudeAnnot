@@ -1,0 +1,8 @@
+{
+  "name": "code-annotator",
+  "description": "After every file write, extracts Claude's reasoning from the session transcript and opens a live annotation window in your browser — zero extra API calls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "code-annotator"
+  }
+}

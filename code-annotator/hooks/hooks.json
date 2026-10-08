@@ -1,0 +1,14 @@
+{
+  "PostToolUse": [
+    {
+      "matcher": "Write|Edit|MultiEdit",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "node \"$HOME/.claude/plugins/code-annotator/annotate.js\"",
+          "async": true
+        }
+      ]
+    }
+  ]
+}
